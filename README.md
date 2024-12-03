@@ -25,7 +25,7 @@ node index.js
 
 - [x] Day 1
 - [x] Day 2
-- [ ] Day 3
+- [x] Day 3
 - [ ] Day 4
 - [ ] Day 5
 - [ ] Day 6
@@ -50,7 +50,7 @@ node index.js
 - [ ] Day 25
 
 ## Stars Collected
-⭐ Total Stars: 4/50
+⭐ Total Stars: 6/50
 
 ## Technologies
 - JavaScript/Node.js
